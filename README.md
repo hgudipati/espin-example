@@ -1,2 +1,2 @@
 # espin-example
-An example repository used dfor the git lesson in ESPIn
+An example repository used for the git lesson in ESPIn
